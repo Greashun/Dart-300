@@ -1,0 +1,16 @@
+#rook-piece {
+  position: relative;
+  width: 400px;
+  height: 270px;
+  /* border-radius: 50%; */
+  z-index: 9999;
+  /* overflow: auto; */
+  bottom: 935px;
+  left: 165px;
+  margin: auto;
+}
+#rook-appear {
+  position: relative;
+  bottom: 600px;
+  right: 45vw;
+}

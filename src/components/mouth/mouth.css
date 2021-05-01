@@ -1,0 +1,11 @@
+.mouth {
+  width: 50%;
+  height: 0%;
+  position: relative;
+  bottom: 110vh;
+  left: 24vh;
+}
+
+.mouth-piece {
+  margin-bottom: -1080px;
+}

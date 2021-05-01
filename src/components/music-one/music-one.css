@@ -1,0 +1,18 @@
+.music-one {
+  position: relative;
+  width: 400px;
+  height: 258px;
+  /* border-radius: 50%; */
+  z-index: 9999;
+  /* overflow: auto; */
+  /* background-color: aquamarine; */
+  bottom: 369px;
+  left: 631px;
+  margin: auto;
+}
+
+.music-spot {
+  width: 260px;
+  height: 189px;
+  border-radius: 50%;
+}

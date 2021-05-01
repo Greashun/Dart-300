@@ -1,0 +1,79 @@
+#index-finger {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  bottom: 800px;
+  left: 51px;
+  opacity: 15%;
+}
+
+#thumb {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  bottom: 420px;
+  left: 181px;
+  opacity: 0%;
+}
+
+#middle-finger {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  bottom: 935px;
+  left: -45px;
+  opacity: 10%;
+}
+
+#ring-finger {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  bottom: 990px;
+  left: -121px;
+  opacity: 10%;
+}
+
+#pink-finger {
+  position: relative;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  bottom: 1000px;
+  left: -210px;
+}
+
+#thumb-button {
+  border-radius: 50%;
+  height: 50%;
+  width: 50%;
+}
+
+#index-button {
+  border-radius: 50%;
+  height: 50%;
+  width: 50%;
+}
+
+#middle-button {
+  border-radius: 50%;
+  height: 50%;
+  width: 50%;
+}
+
+#ring-button {
+  border-radius: 50%;
+  height: 50%;
+  width: 50%;
+}
+
+#pink-button {
+  border-radius: 50%;
+  height: 50%;
+  width: 50%;
+  opacity: 0%;
+}
